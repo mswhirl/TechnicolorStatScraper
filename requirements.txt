@@ -1,0 +1,3 @@
+six
+html2text
+robobrowser
